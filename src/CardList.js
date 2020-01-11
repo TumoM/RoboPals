@@ -1,14 +1,14 @@
 
 import React from 'react';
-import {robots} from './robots';
 import Card from './Card';
 
 
 
 class CardList extends React.Component {
     render(){
-        const cardComponent = robots.map((user, index) =>{
-            return <Card key={index} robots={robots[index]}/>
+
+        const cardComponent = this.props.robots.map((user, index) =>{
+            return <Card key={index} robots={this.props.robots[index]}/>
 
         })
         return(
