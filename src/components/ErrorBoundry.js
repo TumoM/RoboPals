@@ -17,8 +17,6 @@ class ErrorBoundry extends Component {
             return <h1>Not good. Error occured</h1>
         }
         return this.props.children
-
-        )
     }
 }
 
