@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RoboPals/static/css/main.a508bdd1.chunk.css",
-    "main.js": "/RoboPals/static/js/main.4506cb1e.chunk.js",
-    "main.js.map": "/RoboPals/static/js/main.4506cb1e.chunk.js.map",
+    "main.js": "/RoboPals/static/js/main.0cb302f2.chunk.js",
+    "main.js.map": "/RoboPals/static/js/main.0cb302f2.chunk.js.map",
     "runtime-main.js": "/RoboPals/static/js/runtime-main.11a412a9.js",
     "runtime-main.js.map": "/RoboPals/static/js/runtime-main.11a412a9.js.map",
     "static/css/2.eb45ad44.chunk.css": "/RoboPals/static/css/2.eb45ad44.chunk.css",
     "static/js/2.484a5c16.chunk.js": "/RoboPals/static/js/2.484a5c16.chunk.js",
     "static/js/2.484a5c16.chunk.js.map": "/RoboPals/static/js/2.484a5c16.chunk.js.map",
     "index.html": "/RoboPals/index.html",
-    "precache-manifest.d136ad0b6e42cc25b4c128be89133ddc.js": "/RoboPals/precache-manifest.d136ad0b6e42cc25b4c128be89133ddc.js",
+    "precache-manifest.582065c15fce5e43abba8091c1ca1bdf.js": "/RoboPals/precache-manifest.582065c15fce5e43abba8091c1ca1bdf.js",
     "service-worker.js": "/RoboPals/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/RoboPals/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.a508bdd1.chunk.css.map": "/RoboPals/static/css/main.a508bdd1.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.484a5c16.chunk.js",
     "static/css/main.a508bdd1.chunk.css",
-    "static/js/main.4506cb1e.chunk.js"
+    "static/js/main.0cb302f2.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e32dc3a54b19ccaadf4e91fdfea7324",
+    "revision": "d726fc4fc7c183444fbbc45689d65c72",
     "url": "/RoboPals/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboPals/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "0a9a0b22db42ae1ff8c9",
+    "revision": "08812aef182b9f8a15ea",
     "url": "/RoboPals/static/css/main.a508bdd1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RoboPals/static/js/2.484a5c16.chunk.js.LICENSE"
   },
   {
-    "revision": "0a9a0b22db42ae1ff8c9",
-    "url": "/RoboPals/static/js/main.4506cb1e.chunk.js"
+    "revision": "08812aef182b9f8a15ea",
+    "url": "/RoboPals/static/js/main.0cb302f2.chunk.js"
   },
   {
     "revision": "7674d98e81a830e82058",
