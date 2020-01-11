@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robopals/static/css/main.4a62fce6.chunk.css",
-    "main.js": "/robopals/static/js/main.5ab34256.chunk.js",
-    "main.js.map": "/robopals/static/js/main.5ab34256.chunk.js.map",
-    "runtime-main.js": "/robopals/static/js/runtime-main.709fde9e.js",
-    "runtime-main.js.map": "/robopals/static/js/runtime-main.709fde9e.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/robopals/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.484a5c16.chunk.js": "/robopals/static/js/2.484a5c16.chunk.js",
-    "static/js/2.484a5c16.chunk.js.map": "/robopals/static/js/2.484a5c16.chunk.js.map",
-    "index.html": "/robopals/index.html",
-    "precache-manifest.d6f303b77b331daadb362c785091caab.js": "/robopals/precache-manifest.d6f303b77b331daadb362c785091caab.js",
-    "service-worker.js": "/robopals/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/robopals/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.4a62fce6.chunk.css.map": "/robopals/static/css/main.4a62fce6.chunk.css.map",
-    "static/js/2.484a5c16.chunk.js.LICENSE": "/robopals/static/js/2.484a5c16.chunk.js.LICENSE",
-    "static/media/App.css": "/robopals/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/RoboPals/static/css/main.a508bdd1.chunk.css",
+    "main.js": "/RoboPals/static/js/main.4506cb1e.chunk.js",
+    "main.js.map": "/RoboPals/static/js/main.4506cb1e.chunk.js.map",
+    "runtime-main.js": "/RoboPals/static/js/runtime-main.11a412a9.js",
+    "runtime-main.js.map": "/RoboPals/static/js/runtime-main.11a412a9.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RoboPals/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.484a5c16.chunk.js": "/RoboPals/static/js/2.484a5c16.chunk.js",
+    "static/js/2.484a5c16.chunk.js.map": "/RoboPals/static/js/2.484a5c16.chunk.js.map",
+    "index.html": "/RoboPals/index.html",
+    "precache-manifest.d136ad0b6e42cc25b4c128be89133ddc.js": "/RoboPals/precache-manifest.d136ad0b6e42cc25b4c128be89133ddc.js",
+    "service-worker.js": "/RoboPals/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RoboPals/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.a508bdd1.chunk.css.map": "/RoboPals/static/css/main.a508bdd1.chunk.css.map",
+    "static/js/2.484a5c16.chunk.js.LICENSE": "/RoboPals/static/js/2.484a5c16.chunk.js.LICENSE",
+    "static/media/App.css": "/RoboPals/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.709fde9e.js",
+    "static/js/runtime-main.11a412a9.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.484a5c16.chunk.js",
-    "static/css/main.4a62fce6.chunk.css",
-    "static/js/main.5ab34256.chunk.js"
+    "static/css/main.a508bdd1.chunk.css",
+    "static/js/main.4506cb1e.chunk.js"
   ]
 }
